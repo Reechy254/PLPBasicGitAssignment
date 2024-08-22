@@ -1,2 +1,2 @@
 # PLPBasicGitAssignment
-Plp git assignment, working around with te basics of git.
+Plp git assignment, working around with the basics of git.
